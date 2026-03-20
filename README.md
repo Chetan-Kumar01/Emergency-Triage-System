@@ -745,9 +745,9 @@ Each protocol returns:
 | Fast Triage (cached) | < 50ms | ~0–10ms ✅ |
 | Fast Triage (Groq) | < 400ms | ~200–350ms ✅ |
 <<<<<<< HEAD
-| Detailed Triage | < 800ms | ~400–500ms ✅ |
+| Detailed Triage | < 500ms | ~400–500ms ✅ |
 =======
-| Detailed Triage | < 800ms | ~400–700ms ✅ |
+| Detailed Triage | < 500ms | ~300–500ms ✅ |
 >>>>>>> 863a07a (updated project)
 | Protocol Engine | < 10ms | ~1–5ms ✅ |
 | RAG Chat (cached) | < 50ms | ~5–15ms ✅ |
